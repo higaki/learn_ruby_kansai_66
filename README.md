@@ -23,6 +23,6 @@ cambridge = <<EOF.chomp
 EOF
  
 if $0 == __FILE__
-puts cambridge
+   puts cambridge
 end 
 ```
